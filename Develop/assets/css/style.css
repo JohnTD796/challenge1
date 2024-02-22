@@ -85,17 +85,20 @@ p {
 .benefit-style {
     margin-bottom: 32px;
     color: #ffffff;
+    /* Consolidated class names in index file. Changed benefit-brand, cost, lead class to benefit-style */
 }
 
 .benefit-style h3 {
     margin-bottom: 10px;
     text-align: center;
+    /* Consolidated code like the previous step, simplifying the class attributes so there is no repetetive code. */
 }
 
 .benefit-style img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    /* Same as previous steps. */
 }
 
 
@@ -106,15 +109,18 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    /* Simplified class name for all of the navigation bar links, making them all the same. Gets rid of repetitive code. */
 }
 
 .NavigationBar-Style img {
     max-height: 200px;
+    /* Same as previous steps */
 }
 
 .NavigationBar-Style h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    /* Same as previous steps */
 }
 
 .footer {
